@@ -9,7 +9,7 @@ import utilities.WebDriverFactory;
 
 import java.util.Set;
 
-public class OpenBrowser{
+public class MultipleWindows{
     WebDriver driver;
     @BeforeMethod
     public void setUp(){
